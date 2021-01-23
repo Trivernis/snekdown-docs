@@ -32,6 +32,7 @@ With the provided metadata images can be manipulated:
 ![Grayscale](img/snek.png)[width=20% grayscale]
 || `![Grayscale](img/snek.png)[width=20% grayscale]`
 
+
 ![Invert](img/snek.png)[width=20% invert]
 || `![Grayscale](img/snek.png)[width=20% invert]`
 

@@ -23,7 +23,7 @@ The most commonly used placeholders are:
 | `[[datetime]]`                | Inserts the current date and time                     |
 | `[[author]]`                  | Inserts the author of the document                    |
 | `[[title]]`                   | Inserts the title of the document                     |
-&nbsp;
+
 
 Additionally all entries defined in the `custom_attributes` section of the configuration
 can be inserted as placeholders.

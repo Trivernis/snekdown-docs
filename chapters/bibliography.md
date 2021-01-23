@@ -48,7 +48,7 @@ Supported types are:
 | unpublished   | key, author, title                            | date                                               |
 | website       | key, url                                      | title, author, accessed_at, date                   |
 
-&nbsp;
+
 Bibliography can also be defined in a separate TOML file with the following syntax:
 
 ```toml
@@ -67,5 +67,3 @@ publisher = "Snek"
 type = "website"
 url = "https://github.com/trivernis/snekdown"
 ```
-&nbsp;
-

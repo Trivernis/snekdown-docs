@@ -19,7 +19,6 @@ $$$
 $$$
 A = [[1, 2],[3,4]]
 $$$
-&nbsp;
 
 Snekdown uses [MathJax](https://www.mathjax.org/) for improving the output of rendered MathML expressions.
 Browsers like Firefox support rendering of MathML directly so it's not a requirement to use it there. It can be turned off with the feature setting `include_mathjax`.

@@ -27,8 +27,7 @@ Configurations can be imported with the same syntax.
 <[MyGls.toml][type=glossary]
 ```
 
-The parser differentiates five different types of imported files.
-
+The parser differentiates five different types of imported files:
 - `document` - The default import which is just another Snekdown document
 - `stylesheet` - CSS Stylesheets that are included when rendering
 - `bibliography` - A file including bibliography

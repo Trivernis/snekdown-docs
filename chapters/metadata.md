@@ -2,7 +2,6 @@
 
 Metadata or element attributes are a way to change the behaviour of some
 elements.
-
 The syntax for metadata is the same syntax used for defining keys of bibliography entries
 in the document.
 
@@ -24,6 +23,7 @@ Boolean
 [key] equals [key=true]
 ```
 
+
 There are some elements that support metadata:
 
 ```
@@ -42,4 +42,3 @@ Set options for placeholders
 Set the type of an import
 <[style.css][type=stylesheet]
 ```
-&nbsp;
