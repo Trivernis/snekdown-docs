@@ -1,7 +1,7 @@
 # Configuration
 
 Some attributes of a Snekdown document can be controlled by using a configuration file.
-The default name for this file is `Manifest.toml`. When importing a `toml` file, it gets interpreted
+The default name of this file is `Manifest.toml`. When importing a `toml` file, it gets interpreted
 as a configuration file by default. Multiple configurations are combined.
 
 

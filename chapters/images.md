@@ -49,6 +49,7 @@ With the provided metadata images can be manipulated:
 || `![Adjust Contrast](img/snek.png)[width=20% contrast=50]`
 
 
+
 The image manipulations can also be combined. The order of execution can not be changed.
 
 

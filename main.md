@@ -46,6 +46,9 @@
 <[chapters/imports.md]
 
 - - -
+<[chapters/references.md]
+
+- - -
 
 <[chapters/bibliography.md]
 
